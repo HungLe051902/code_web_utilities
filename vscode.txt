@@ -1,0 +1,21 @@
+----------------EXTENSIONS----------------
+Prettier
+Better Comments
+Quokka
+Live Server
+Auto Rename Tag
+Bracket Pair Colorizer
+Debugger for Chrome
+Live Share
+
+----------------SETTINGS----------------
+Format On Save => true
+
+----------------USER SNIPPET----------------
+Example
+"Environment variable": {
+	"prefix": "env",
+	"body": "process.env.${0}",
+	"description": "Environment variable"
+}
+
