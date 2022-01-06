@@ -7,6 +7,7 @@ git cherry-pick <commit_id> | Lấy commit từ nhánh khác sang nhánh hiện 
 git rebase | lấy các commit của nhánh feature để đặt xuống cuối các commit của nhánh master
 git config --global alias.adog 'log --all --decorate --oneline --graph' | Đặt alias để viết nhanh hơn
 git config --global alias.sus '!f() { git checkout -b \"$1\"; git push -u origin \"$1\"; }; f' | Create and Set upstream local branch 
+git config --global alias.cm 'commit -m' | .
 git checkout <fileName> or git restore <fileName> | undo changes <fileName>
 
 ## Git config
