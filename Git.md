@@ -1,5 +1,7 @@
 **CHÚ Ý**: Làm việc với git bash phải để ý cả từng dấu ';' và dấu ' '
 
+## Git help: git [command] -help (Example: git commit -help)
+
 ## Git bash
 Command | Meaning
 --- | ---
