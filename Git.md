@@ -15,7 +15,7 @@ git checkout <fileName> or git restore <fileName> | undo changes <fileName>
 git checkout <commit_hash> => git switch -c <branch_name> | Nhảy về thời điểm commit cũ và tạo nhánh mới từ thời điểm đó
 git reset --hard 0d1d7fc32 | Hard delete unpublished commits
 git branch -vv | Kiểm tra origin branch
-git revert  | Undo published commits with new commits
+git revert [commit_hash] | Undo published commits with new commits
 
 ## Git config
 **git config --global --edit**: sửa file .gitconfig
