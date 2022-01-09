@@ -19,3 +19,6 @@ Example
 	"description": "Environment variable"
 }
 
+----------------SHORT CUT----------------
+Ctrl + Shift + p: show all commands
+
