@@ -7,7 +7,7 @@ Auto Rename Tag
 Bracket Pair Colorizer
 Debugger for Chrome
 Live Share
-GitLens: Hiển thị người, ngày giờ thay đổi trên từng dòng code
+GitLens: Hiển thị người sửa, ngày giờ thay đổi trên từng dòng code
 
 ----------------SETTINGS----------------
 Format On Save => true
