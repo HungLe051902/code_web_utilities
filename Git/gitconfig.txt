@@ -1,0 +1,11 @@
+[user]
+	name = Hung Le
+	email = lexuanhung020599@gmail.com
+[alias]
+	sync = "!f() { git fetch --tags && git pull && git push; };f"
+	cb = "checkout -b"
+	sus = "!f() { git checkout -b \"$1\"; git push -u origin \"$1\"; f"
+	sw = switch
+	po = pull origin
+	cm = commit -m
+	stash0 = stash apply stash@{0}
