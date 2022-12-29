@@ -4,4 +4,4 @@
 - Open Package Manager Console (Custom): Ctrl + P, Ctrl + M
 
 ## Extensions
-For .NET: Resharper
+- For .NET: Resharper
